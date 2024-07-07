@@ -18,9 +18,7 @@ website:
     #  - papers.qmd
       #- blog.qmd
   page-footer:
-    right: "© Copyright 2024 Yuhang Xu. 
-    Except where otherwise noted, 
-    all text and images licensed CC-BY-NC 4.0."
+    right: "© Copyright 2024 Yuhang Xu. CC-BY-NC 4.0."
 
 
 
