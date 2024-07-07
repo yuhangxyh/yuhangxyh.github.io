@@ -1,11 +1,49 @@
 ---
-title: "testnewnewgithub"
+title: "Yuhang Xu"
+about:
+  image: profile.jpg
+  template: solana
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/yuhangxyh"
+    - text: "{{< ai osf >}} OSF"
+      url: https://osf.io/2hjc4
+    - text: "{{< ai orcid >}} ORCID"
+      url: https://orcid.org/0000-0002-9863-6036
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      icon: google-scholar
+      url: https://scholar.google.com/citations?user=X_2G-VsAAAAJ
+    - icon: twitter
+      text: Twitter
+      url: https://twitter.com/yuhangx
+ #   - text: GitHub
+ #     icon: github
+ #     url: "https://github.com/mikemahoney218"
+ #   - text: Email
+ #     url: "mailto:mike.mahoney.218+site@gmail.com"
+ #   - text: Blog
+ #     url: "blog.html"
+ #   - text: CV
+  #    url: "cv.pdf"
 ---
 
-This is a Quarto website.
+# Welcome!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am Yuhang Xu/徐雨航, currently a joint Ph.D. student from the [Department of Linguistics](http://www.ling.rochester.edu/) and the [Department of Brain & Cognitive Sciences](https://www.bcs.rochester.edu/), [University of Rochester](https://www.rochester.edu/). I am working with [Dr. Jeffrey Runner](http://www.ling.rochester.edu/people/faculty/runner_jeff/index.html)and [Dr. Michael K. Tanenhaus](https://www.amacad.org/person/michael-k-tanenhaus) at the U of R as well as [Dr.Qingrong Chen](http://schools.njnu.edu.cn/psy/person/qingrong-chen) at the [Nanjing Normal University](http://en.njnu.edu.cn/).
 
-```{r}
-1 + 1
-```
+My [CV](https://drive.google.com/open?id=15TLgaH6BDG-25io96hsB7gq5Ui1lV-Hg&authuser=garyxuyuhang%40gmail.com&usp=drive_fs).
+
+\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~NEWS\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~
+
+-   ***2020 Fall***
+
+    -   **\*New paper\***  Assessing introspective linguistic judgments quantitatively: the case of The Syntax of Chinese. *Journal of East Asian Linguistics*. \[[link](https://drive.google.com/open?id=11BtK_knQwJBidgn_V7jI60CZ5aE6EU6Z)\]
+
+    -   **\*New paper\***  Effects of character and word contextual diversity in Chinese beginning readers. *Scientific* *Studies of Reading.* 1-21. \[[link](https://drive.google.com/file/d/1NqFjSx8aLQuCu6HtfSdccSkQxA5tYTbV/view?usp=sharing)\]
+
+-   ***2020 Spring***
+
+    -   LSA 2020 talk: Immediate effects of non-structural constraints in anaphor resolution: evidence from visual world eye-tracking  
+
+    -   CUNY 2020 poster: Syntactic and semantic structure in VP ellipsis and VP anaphora processing  
