@@ -10,6 +10,9 @@ website:
         text: Home
       - href: papers.qmd
         text: Research
+      - href: CV.qmd
+        text: CV
+        
       - href: teaching.qmd
         text: Teaching
       - href: demos.qmd
