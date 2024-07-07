@@ -2,40 +2,18 @@ project:
   type: website
 
 website:
-  title: "Yuhang Xu"
-  #description: "Data"
+  title: "testnewnewgithub"
   navbar:
-    right:
+    left:
       - href: index.qmd
         text: Home
-      - href: papers.qmd
-        text: Research
-      - href: teaching.qmd
-        text: Teaching
-      - href: posts.qmd
-        text: Posts
-     # - about.qmd
-    #  - papers.qmd
-      #- blog.qmd
-  page-footer:
-    right: "© Copyright 2024 Yuhang Xu. CC-BY-NC 4.0."
-
-
+      - about.qmd
 
 format:
   html:
-    theme: 
-      dark: darkly 
-      light: flatly
+    theme: cosmo
     css: styles.css
-    toc: false
-  #  link-external-icon: true
-    link-external-newwindow: true
+    toc: true
 
 editor: visual
-execute:
-  freeze: auto  # re-render only when source changes
-
-
-
 
