@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Yuhang Xu",
     "section": "",
-    "text": "Welcome!\nI am Yuhang Xu/徐雨航, currently a joint Ph.D. student from the Department of Linguistics and the Department of Brain & Cognitive Sciences, University of Rochester. I am working with Dr. Jeffrey Runnerand Dr. Michael K. Tanenhaus at the U of R as well as Dr.Qingrong Chen at the Nanjing Normal University.\nMy CV.\n~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~NEWS~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~\n\n2020 Fall\n\n*New paper*  Assessing introspective linguistic judgments quantitatively: the case of The Syntax of Chinese. Journal of East Asian Linguistics. [link]\n*New paper*  Effects of character and word contextual diversity in Chinese beginning readers. Scientific Studies of Reading. 1-21. [link]\n\n2020 Spring\n\nLSA 2020 talk: Immediate effects of non-structural constraints in anaphor resolution: evidence from visual world eye-tracking  \nCUNY 2020 poster: Syntactic and semantic structure in VP ellipsis and VP anaphora processing"
+    "text": "Welcome!\nStill under construction.\nI am Yuhang Xu/徐雨航, currently a joint Ph.D. student from the Department of Linguistics and the Department of Brain & Cognitive Sciences, University of Rochester. I am working with Dr. Jeffrey Runnerand Dr. Michael K. Tanenhaus at the U of R as well as Dr.Qingrong Chen at the Nanjing Normal University.\nMy CV.\n~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~NEWS~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~\n\n2020 Fall\n\n*New paper*  Assessing introspective linguistic judgments quantitatively: the case of The Syntax of Chinese. Journal of East Asian Linguistics. [link]\n*New paper*  Effects of character and word contextual diversity in Chinese beginning readers. Scientific Studies of Reading. 1-21. [link]\n\n2020 Spring\n\nLSA 2020 talk: Immediate effects of non-structural constraints in anaphor resolution: evidence from visual world eye-tracking  \nCUNY 2020 poster: Syntactic and semantic structure in VP ellipsis and VP anaphora processing"
   },
   {
     "objectID": "about.html",
@@ -54,5 +54,12 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "demos.html",
+    "href": "demos.html",
+    "title": "Project Deoms",
+    "section": "",
+    "text": "TBD"
   }
 ]

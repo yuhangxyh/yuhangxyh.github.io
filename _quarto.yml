@@ -12,6 +12,8 @@ website:
         text: Research
       - href: teaching.qmd
         text: Teaching
+      - href: demos.qmd
+        text: Project Demo
       - href: posts.qmd
         text: Posts
      # - about.qmd

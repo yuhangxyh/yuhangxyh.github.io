@@ -5,7 +5,7 @@ format:
     toc: True
 ---
 
-# **Publications** 
+# **Publications**
 
 Xu, Y. & Runner, J. (under review). Long distance binding option for the Mandarin Chinese reflexive *taziji.* \[[preprint](https://psyarxiv.com/4zd68/)\]
 
