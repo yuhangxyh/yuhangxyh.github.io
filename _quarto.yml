@@ -33,7 +33,6 @@ format:
     link-external-newwindow: true
 
 editor: visual
-
 execute:
   freeze: auto  # re-render only when source changes
 
