@@ -28,12 +28,13 @@ website:
     all text and images licensed CC-BY-NC 4.0."
 
 
-
 format:
   html:
-    theme: 
+    theme:   
       dark: darkly 
       light: flatly
+    
+    fontsize: 1.1em
     css: styles.css
     toc: false
   #  link-external-icon: true
