@@ -2,9 +2,7 @@
   {
     "listing": "/posts.html",
     "items": [
-      "/sections/posts/Usefullinks/index.html",
       "/posts/Usefullinks/index.html",
-      "/sections/posts/welcome/index.html",
       "/posts/welcome/index.html"
     ]
   },
