@@ -6,18 +6,18 @@ website:
   #description: "Data"
   navbar:
     right:
-      - href: index.qmd
+      - href: sections/index.qmd
         text: Home
-      - href: papers.qmd
+      - href: sections/papers.qmd
         text: Research
-      - href: CV.qmd
+      - href: sections/CV.qmd
         text: CV
         
-      - href: teaching.qmd
+      - href: sections/teaching.qmd
         text: Teaching
-      - href: demos.qmd
+      - href: sections/demos.qmd
         text: Project Demo
-      - href: posts.qmd
+      - href: sections/posts.qmd
         text: Posts
      # - about.qmd
     #  - papers.qmd
