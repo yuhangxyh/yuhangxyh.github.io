@@ -6,26 +6,24 @@ website:
   #description: "Data"
   navbar:
     right:
-      - href: sections/index.qmd
+      - href: index.qmd
         text: Home
-      - href: sections/papers.qmd
+      - href: papers.qmd
         text: Research
-      - href: sections/CV.qmd
+      - href: CV.qmd
         text: CV
         
-      - href: sections/teaching.qmd
+      - href: teaching.qmd
         text: Teaching
-      - href: sections/demos.qmd
-        text: Project Demo
-      - href: sections/posts.qmd
-        text: Posts
+    #  - href: demos.qmd
+    #    text: Project Demo
+      - href: posts.qmd
+        text: Blog
      # - about.qmd
     #  - papers.qmd
       #- blog.qmd
   page-footer:
-    right: "© Copyright 2024 Yuhang Xu. 
-    Except where otherwise noted, 
-    all text and images licensed CC-BY-NC 4.0."
+    right: "© Copyright 2024 Yuhang Xu | CC-BY-NC 4.0."
 
 
 format:

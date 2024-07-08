@@ -1,0 +1,62 @@
+---
+title: "Research"
+format:
+  html:
+    toc: True
+---
+
+# **Publications**
+
+Xu, Y. & Runner, J. (under review). Long distance binding option for the Mandarin Chinese reflexive *taziji.* \[[preprint](https://psyarxiv.com/4zd68/)\]
+
+Chen, Z., **Xu, Y.** & Xie, Z. (2020). Assessing introspective linguistic judgments quantitatively: the case of The Syntax of Chinese. *Journal of East Asian Linguistics*. https://doi.org/10.1007/s10831-020-09210-y. \[[link](https://drive.google.com/open?id=11BtK_knQwJBidgn_V7jI60CZ5aE6EU6Z)\]
+
+Huang, X., Lin, D., Yang, Y., **Xu, Y.,** Chen, Q., & Tanenhaus, M. K. (2020). Effects of character and word contextual diversity in Chinese beginning readers. *Scientific* *Studies of Reading.* 1-21. <https://doi.org/10.1080/10888438.2020.1768258> \[[link](https://drive.google.com/file/d/1NqFjSx8aLQuCu6HtfSdccSkQxA5tYTbV/view?usp=sharing)\]
+
+Xu, Y. & Runner, J. (2019). Memory Retrieval in Reflexives Processing: Evidence against the Local Search Hypothesis. *Working Papers in the Language Sciences at the University of Rochester vol. 7.* \[[link](http://www.sas.rochester.edu/cls/assets/pdf/working/fall-19/2xurunnerpaper.pdf)\]
+
+------------------------------------------------------------------------
+
+# **Presentations**
+
+## *Talks*
+
+Xu, Y**.**, Ringhoff, N., Coons, R., Fluellen, L., Eisen, C. & Runner, J. T. (2020). *Immediate effects of non-structural constraints in anaphor resolution: evidence from visual world eye-tracking*. Talk presented at the 94th Annual Meeting of the Linguistic Society of America, New Orleans, LA.
+
+Xu, Y., Runner, J. T., and Tanenhaus, M. K. (2019). *Gender effects on gender neutral anaphor resolution*. Talk presented at the 2nd International Conference on Theoretical East Asian Psycholinguistics, Beijing, China.
+
+Xu, Y., Xie, M., Chen, Q., and Tanenhaus, M. K. (2018). *Time-course of orthographic effects in Chinese spoken word recognition*. Talk presented at the 8th China International Conference on Eye Movements, Nanjing, China.
+
+Xu, Y., Tian, Y., Runner, J. T., and Tanenhaus, M. K. (2018). *Gender effects on gender ambiguous anaphor resolution*. Talk presented at the 8th China International Conference on Eye Movements, Nanjing, China. (**Best Paper Award**)
+
+## *Posters*
+
+Xu, Y. & Runner, J. T. (2020). *Syntactic and semantic structure in VP ellipsis and VP anaphora processing*. Poster presented at the 33^rd^CUNY Conference on Human Sentence Processing, Amherst, MA
+
+Chen, Z., Xu, Y. & Xie, Z. (2020). *Assessing the reliability of informal acceptability judgments in Chinese syntax*. Poster presented at the 33^rd^CUNY Conference on Human Sentence Processing, Amherst, MA
+
+Xu, Y., Runner, J. T., and Tanenhaus, M. K. (2019). *Gender Effects on Gender Neutral Reflexives Resolution*. Poster presented at the 32nd CUNY Conference on Human Sentence Processing, Boulder, CO.
+
+Xu, Y., Ringhoff, N., Coons, R., Fluellen, L., Eisen, C., & Runner, J. T. (2019). *Sensitivity to Gender Cues during Anaphor Resolution: Evidence from Visual World Eye-tracking*. Poster presented at the 32nd CUNY Conference on Human Sentence Processing, Boulder, CO.
+
+Xu, Y., Eisen, C., Fluellen, L., Zhou, Y., Ringhoff, N., Coons, R., & Runner, J. T. (2019). *Gender Bias in Picture Noun Phrase Reflexive Resolution*. Poster presented at the 32nd CUNY Conference on Human Sentence Processing, Boulder, CO.
+
+Xu, Y. , Eisen, C., Zhou, Y & Runner, J. (2019). *Gender Bias in Picture Noun Phrase Reflexive Resolution*. Poster presented at the 93rd Annual Meeting of the Linguistic Society of America, New York, NY. \[[Link](https://www.linguisticsociety.org/abstract/gender-bias-picture-noun-phrase-reflexive-resolution)\]
+
+Xu, Y., Tian, Y., Runner, J. T., and Tanenhaus, M. K. (2018a). *Gender effects on gender ambiguous anaphor resolution*. Poster presented at the 31st CUNY Conference on Human Sentence Processing, Davis, CA.
+
+Xu, Y., Xie, M., Chen, Q., and Tanenhaus, M. K. (2018b). *Time-course of orthographic effects in Chinese spoken word recognition*. Poster presented at the 31st CUNY Conference on Human Sentence Processing, Davis, CA.
+
+Xu, Y. & Runner, J. (2017).*Sensitivity to gender information in anaphor resolution: the case of Mandarin Chinese*.Poster presented at the 1st International Conference on Theoretical East Asian Psycholinguistics, Hong Kong.
+
+Xu, Y. & Runner, J. (2016). *Memory retrieval in reflexives processing: Evidence against the local search hypothesis*. Poster presented at the 29th Annual CUNY Conference on Human Sentence Processing, Gainesville, FL.
+
+Xu, Y. & Runner, J. (2016). *Locality effects in long-distance reflexive retrieval: the case of Mandarin Chinese ziji*. Poster presented at the 90th Annual Meeting of the Linguistic Society of America, Washington, D.C. \[[Link](http://www.linguisticsociety.org/abstract/locality-effects-long-distance-reflexive-retrieval-case-mandarin-chinese-ziji)\]
+
+------------------------------------------------------------------------
+
+# **Unpublished Manuscripts**
+
+Xu, Y . (2014). A preliminary study of Chinese students’ cognitive process of understanding English active and passive sentences. – *Outstanding Bachelor’s Degree Thesis of Hubei Province in 2013*.
+
+Xu, Y. (Unpublished manuscript). Exploring the effects of internet rumors and the rumor refutation process on Chinese college students’ implicit attitudes: a BIAT study (in Chinese).
