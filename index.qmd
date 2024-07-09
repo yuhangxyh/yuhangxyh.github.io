@@ -26,6 +26,9 @@ about:
  #     url: "blog.html"
  #   - text: CV
   #    url: "cv.pdf"
+    - icon: rss
+      text: RSS
+      href: posts.xml
 ---
 
 # Welcome!

@@ -3,14 +3,8 @@
     "listing": "/posts.html",
     "items": [
       "/posts/Usefullinks/index.html",
+      "/posts/onlyOK.html",
       "/posts/welcome/index.html"
-    ]
-  },
-  {
-    "listing": "/sections/posts.html",
-    "items": [
-      "/sections/posts/Usefullinks/index.html",
-      "/sections/posts/welcome/index.html"
     ]
   }
 ]

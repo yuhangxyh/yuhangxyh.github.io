@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Yuhang Xu</title>
+<link>https://yuhangxyh.github.io/posts.html</link>
+<atom:link href="https://yuhangxyh.github.io/posts.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.4.555</generator>
+<lastBuildDate>Sat, 06 Jul 2024 16:00:00 GMT</lastBuildDate>
+<item>
+  <title>Useful links</title>
+  <dc:creator>Yuhang Xu</dc:creator>
+  <link>https://yuhangxyh.github.io/posts/Usefullinks/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I will post useful links here.</p>
+
+
+
+ ]]></description>
+  <category>tool</category>
+  <guid>https://yuhangxyh.github.io/posts/Usefullinks/</guid>
+  <pubDate>Sat, 06 Jul 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Tests</title>
+  <dc:creator>Yuhang Xu</dc:creator>
+  <link>https://yuhangxyh.github.io/posts/onlyOK.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I will post useful links here.</p>
+
+
+
+ ]]></description>
+  <category>tool</category>
+  <guid>https://yuhangxyh.github.io/posts/onlyOK.html</guid>
+  <pubDate>Sat, 06 Jul 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Welcome To My Blog</title>
+  <dc:creator>Yuhang Xu</dc:creator>
+  <link>https://yuhangxyh.github.io/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is the first post in a Quarto blog. Welcome!</p>
+<p><img src="https://yuhangxyh.github.io/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://yuhangxyh.github.io/posts/welcome/</guid>
+  <pubDate>Tue, 02 Jul 2024 16:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Yuhang Xu"
+  site-url: https://yuhangxyh.github.io/
   #description: "Data"
   navbar:
     right:
@@ -19,6 +20,9 @@ website:
     #    text: Project Demo
       - href: posts.qmd
         text: Blog
+      - icon: rss
+        href: posts.xml
+
      # - about.qmd
     #  - papers.qmd
       #- blog.qmd
