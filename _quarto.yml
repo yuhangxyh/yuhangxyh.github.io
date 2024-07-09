@@ -20,9 +20,6 @@ website:
     #    text: Project Demo
       - href: posts.qmd
         text: Blog
-      - icon: rss
-        href: posts.xml
-
      # - about.qmd
     #  - papers.qmd
       #- blog.qmd
