@@ -1,5 +1,6 @@
 ---
 title: "Yuhang Xu"
+description: "Psycholinguistics & Data Science"
 about:
   image: files/profile.jpg
   template: solana
@@ -31,8 +32,6 @@ about:
       href: posts.xml
 ---
 
-Psycholinguistics & Data Science
-
 # Welcome!
 
 Still under construction.
@@ -43,6 +42,13 @@ My [CV](https://drive.google.com/open?id=15TLgaH6BDG-25io96hsB7gq5Ui1lV-Hg&authu
 
 \~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~NEWS\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~
 
+-   ***2024***
+
+    I am back. Stay tuned! 😀
+
+```{=html}
+<!-- -->
+```
 -   ***2020 Fall***
 
     -   **\*New paper\***  Assessing introspective linguistic judgments quantitatively: the case of The Syntax of Chinese. *Journal of East Asian Linguistics*. \[[link](https://drive.google.com/open?id=11BtK_knQwJBidgn_V7jI60CZ5aE6EU6Z)\]
