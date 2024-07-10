@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Yuhang Xu",
     "section": "",
-    "text": "Psycholinguistics & Data Science\n\nWelcome!\nStill under construction.\nI am Yuhang Xu/徐雨航, currently a joint Ph.D. student from the Department of Linguistics and the Department of Brain & Cognitive Sciences, University of Rochester. I am working with Dr. Jeffrey Runnerand Dr. Michael K. Tanenhaus at the U of R as well as Dr.Qingrong Chen at the Nanjing Normal University.\nMy CV.\n~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~NEWS~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~\n\n2020 Fall\n\n*New paper*  Assessing introspective linguistic judgments quantitatively: the case of The Syntax of Chinese. Journal of East Asian Linguistics. [link]\n*New paper*  Effects of character and word contextual diversity in Chinese beginning readers. Scientific Studies of Reading. 1-21. [link]\n\n2020 Spring\n\nLSA 2020 talk: Immediate effects of non-structural constraints in anaphor resolution: evidence from visual world eye-tracking  \nCUNY 2020 poster: Syntactic and semantic structure in VP ellipsis and VP anaphora processing"
+    "text": "Welcome!\nStill under construction.\nI am Yuhang Xu/徐雨航, currently a joint Ph.D. student from the Department of Linguistics and the Department of Brain & Cognitive Sciences, University of Rochester. I am working with Dr. Jeffrey Runnerand Dr. Michael K. Tanenhaus at the U of R as well as Dr.Qingrong Chen at the Nanjing Normal University.\nMy CV.\n~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~NEWS~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~\n\n2024\nI am back. Stay tuned! 😀\n\n\n\n2020 Fall\n\n*New paper*  Assessing introspective linguistic judgments quantitatively: the case of The Syntax of Chinese. Journal of East Asian Linguistics. [link]\n*New paper*  Effects of character and word contextual diversity in Chinese beginning readers. Scientific Studies of Reading. 1-21. [link]\n\n2020 Spring\n\nLSA 2020 talk: Immediate effects of non-structural constraints in anaphor resolution: evidence from visual world eye-tracking  \nCUNY 2020 poster: Syntactic and semantic structure in VP ellipsis and VP anaphora processing"
   },
   {
     "objectID": "papers.html",
@@ -35,11 +35,11 @@
     "text": "Posters\nXu, Y. & Runner, J. T. (2020). Syntactic and semantic structure in VP ellipsis and VP anaphora processing. Poster presented at the 33rdCUNY Conference on Human Sentence Processing, Amherst, MA\nChen, Z., Xu, Y. & Xie, Z. (2020). Assessing the reliability of informal acceptability judgments in Chinese syntax. Poster presented at the 33rdCUNY Conference on Human Sentence Processing, Amherst, MA\nXu, Y., Runner, J. T., and Tanenhaus, M. K. (2019). Gender Effects on Gender Neutral Reflexives Resolution. Poster presented at the 32nd CUNY Conference on Human Sentence Processing, Boulder, CO.\nXu, Y., Ringhoff, N., Coons, R., Fluellen, L., Eisen, C., & Runner, J. T. (2019). Sensitivity to Gender Cues during Anaphor Resolution: Evidence from Visual World Eye-tracking. Poster presented at the 32nd CUNY Conference on Human Sentence Processing, Boulder, CO.\nXu, Y., Eisen, C., Fluellen, L., Zhou, Y., Ringhoff, N., Coons, R., & Runner, J. T. (2019). Gender Bias in Picture Noun Phrase Reflexive Resolution. Poster presented at the 32nd CUNY Conference on Human Sentence Processing, Boulder, CO.\nXu, Y. , Eisen, C., Zhou, Y & Runner, J. (2019). Gender Bias in Picture Noun Phrase Reflexive Resolution. Poster presented at the 93rd Annual Meeting of the Linguistic Society of America, New York, NY. [Link]\nXu, Y., Tian, Y., Runner, J. T., and Tanenhaus, M. K. (2018a). Gender effects on gender ambiguous anaphor resolution. Poster presented at the 31st CUNY Conference on Human Sentence Processing, Davis, CA.\nXu, Y., Xie, M., Chen, Q., and Tanenhaus, M. K. (2018b). Time-course of orthographic effects in Chinese spoken word recognition. Poster presented at the 31st CUNY Conference on Human Sentence Processing, Davis, CA.\nXu, Y. & Runner, J. (2017).Sensitivity to gender information in anaphor resolution: the case of Mandarin Chinese.Poster presented at the 1st International Conference on Theoretical East Asian Psycholinguistics, Hong Kong.\nXu, Y. & Runner, J. (2016). Memory retrieval in reflexives processing: Evidence against the local search hypothesis. Poster presented at the 29th Annual CUNY Conference on Human Sentence Processing, Gainesville, FL.\nXu, Y. & Runner, J. (2016). Locality effects in long-distance reflexive retrieval: the case of Mandarin Chinese ziji. Poster presented at the 90th Annual Meeting of the Linguistic Society of America, Washington, D.C. [Link]"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/usfeulinks.html",
+    "href": "posts/usfeulinks.html",
+    "title": "Tests",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "I will post useful links here."
   },
   {
     "objectID": "teaching.html",
@@ -49,18 +49,11 @@
     "text": "Experimental Syntax, Fall 2019, University of Rochester"
   },
   {
-    "objectID": "posts/Usefullinks/index.html",
-    "href": "posts/Usefullinks/index.html",
-    "title": "Useful links",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "I will post useful links here."
-  },
-  {
-    "objectID": "posts/onlyOK.html",
-    "href": "posts/onlyOK.html",
-    "title": "Tests",
-    "section": "",
-    "text": "I will post useful links here."
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
     "objectID": "demos.html",
@@ -74,6 +67,6 @@
     "href": "posts.html",
     "title": "Yuhang Blog",
     "section": "",
-    "text": "Useful links\n\n\n\n\n\n\ntool\n\n\n\n\n\n\n\n\n\nJul 7, 2024\n\n\nYuhang Xu\n\n\n\n\n\n\n\n\n\n\n\n\nTests\n\n\n\n\n\n\ntool\n\n\n\n\n\n\n\n\n\nJul 7, 2024\n\n\nYuhang Xu\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJul 3, 2024\n\n\nYuhang Xu\n\n\n\n\n\n\nNo matching items"
+    "text": "Tests\n\n\n\n\n\n\ntool\n\n\n\n\n\n\n\n\n\nJul 7, 2024\n\n\nYuhang Xu\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJul 3, 2024\n\n\nYuhang Xu\n\n\n\n\n\n\nNo matching items"
   }
 ]
