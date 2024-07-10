@@ -39,7 +39,7 @@ Still under construction.
 
 I am Yuhang Xu/徐雨航, currently a joint Ph.D. student from the [Department of Linguistics](http://www.ling.rochester.edu/) and the [Department of Brain & Cognitive Sciences](https://www.bcs.rochester.edu/), [University of Rochester](https://www.rochester.edu/). I am working with [Dr. Jeffrey Runner](http://www.ling.rochester.edu/people/faculty/runner_jeff/index.html)and [Dr. Michael K. Tanenhaus](https://www.amacad.org/person/michael-k-tanenhaus) at the U of R as well as [Dr.Qingrong Chen](http://schools.njnu.edu.cn/psy/person/qingrong-chen) at the [Nanjing Normal University](http://en.njnu.edu.cn/).
 
-My [CV](https://drive.google.com/open?id=15TLgaH6BDG-25io96hsB7gq5Ui1lV-Hg&authuser=garyxuyuhang%40gmail.com&usp=drive_fs).
+My [CV](https://drive.google.com/file/d/1Md0F_yIpvaOmMfUM2_80HqrZRLhoOIGj/view?usp=sharing).
 
 \~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~NEWS\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~
 
@@ -47,9 +47,8 @@ My [CV](https://drive.google.com/open?id=15TLgaH6BDG-25io96hsB7gq5Ui1lV-Hg&authu
 
     I am back. Stay tuned! 😀
 
-```{=html}
 <!-- -->
-```
+
 -   ***2020 Fall***
 
     -   **\*New paper\***  Assessing introspective linguistic judgments quantitatively: the case of The Syntax of Chinese. *Journal of East Asian Linguistics*. \[[link](https://drive.google.com/open?id=11BtK_knQwJBidgn_V7jI60CZ5aE6EU6Z)\]
