@@ -30,6 +30,7 @@ about:
     - icon: rss
       text: RSS
       href: posts.xml
+comments: false
 ---
 
 # Welcome!

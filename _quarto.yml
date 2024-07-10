@@ -25,7 +25,9 @@ website:
       #- blog.qmd
   page-footer:
     right: "© Copyright 2024 Yuhang Xu | CC-BY-NC 4.0."
-
+  comments:
+    giscus:
+      repo: yuhangxyh/yuhangxyh.github.io
 
 format:
   html:
@@ -38,6 +40,7 @@ format:
     toc: false
   #  link-external-icon: true
     link-external-newwindow: true
+    
 
 editor: visual
 
