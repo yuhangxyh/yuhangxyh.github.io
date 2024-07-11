@@ -1,5 +1,6 @@
 ---
 title: "Teaching"
+comments: false
 ---
 
 Experimental Syntax, Fall 2019, University of Rochester
