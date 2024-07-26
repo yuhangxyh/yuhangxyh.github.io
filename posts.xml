@@ -10,7 +10,29 @@
 <atom:link href="https://yuhangxyh.github.io/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.4.555</generator>
-<lastBuildDate>Sat, 06 Jul 2024 16:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 26 Jul 2024 16:00:00 GMT</lastBuildDate>
+<item>
+  <title>What’s a family in family-wise error control?[resources]</title>
+  <dc:creator>Yuhang Xu</dc:creator>
+  <link>https://yuhangxyh.github.io/posts/familyerrorrate.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I am reading this post by Daniel Lakens.</p>
+<p><strong>What’s a family in family-wise error control?</strong></p>
+<p><a href="https://daniellakens.blogspot.com/2020/03/whats-family-in-family-wise-error.html" class="uri">https://daniellakens.blogspot.com/2020/03/whats-family-in-family-wise-error.html</a></p>
+<p>I will post my own views later.</p>
+
+
+
+ ]]></description>
+  <category>resources</category>
+  <guid>https://yuhangxyh.github.io/posts/familyerrorrate.html</guid>
+  <pubDate>Fri, 26 Jul 2024 16:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Tests</title>
   <dc:creator>Yuhang Xu</dc:creator>
