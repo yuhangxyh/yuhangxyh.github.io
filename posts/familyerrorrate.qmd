@@ -1,0 +1,14 @@
+---
+title: "What’s a family in family-wise error control?[resources]"
+author: "Yuhang Xu"
+date: "2024-07-27"
+categories: [resources]
+---
+
+I am reading this post by Daniel Lakens.
+
+**What’s a family in family-wise error control?**
+
+<https://daniellakens.blogspot.com/2020/03/whats-family-in-family-wise-error.html>
+
+I will post my own views later.
