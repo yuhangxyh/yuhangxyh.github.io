@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="ChatGPT">
+<meta name="dcterms.date" content="2024-07-28">
 
-<title>Yuhang Xu - Yuhang Blog</title>
+<title>Yuhang Xu - Enhancing Academic Writing with AI Tools</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +25,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,77 +70,19 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
+<link rel="stylesheet" href="../styles.css">
+</head>
 
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="Yuhang Xu" href="posts.xml" data-external="1"></head>
-
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Yuhang Xu</span>
     </a>
   </div>
@@ -151,23 +93,23 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./papers.html"> 
+    <a class="nav-link" href="../papers.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./CV.html"> 
+    <a class="nav-link" href="../CV.html"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
+    <a class="nav-link" href="../teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./posts.html" aria-current="page"> 
+    <a class="nav-link" href="../posts.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
 </ul>
@@ -181,203 +123,175 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">Yuhang Blog</h1>
-                      </div>
+    <div class="quarto-title column-body">
+      <h1 class="title">Enhancing Academic Writing with AI Tools</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">tool</div>
+                <div class="quarto-category">AI</div>
+              </div>
+                  </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page-left">
+  <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>ChatGPT </p>
+            </div>
+    </div>
       
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">July 28, 2024</p>
+      </div>
+    </div>
     
       
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="AI">AI <span class="quarto-category-count">(1)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(1)</span></div><div class="category" data-category="resources">resources <span class="quarto-category-count">(1)</span></div><div class="category" data-category="tool">tool <span class="quarto-category-count">(2)</span></div></div></div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
 
+<section id="enhancing-academic-writing-with-ai-tools" class="level1">
+<h1>Enhancing Academic Writing with AI Tools</h1>
+<p>Academic writing can be a demanding task, requiring precision, clarity, and extensive research. Fortunately, a range of AI tools are available to assist scholars in various stages of their writing process. In this blog post, we’ll explore some of the best AI tools for polishing academic papers and conducting literature reviews.</p>
+<section id="tools-for-polishing-academic-papers" class="level2">
+<h2 class="anchored" data-anchor-id="tools-for-polishing-academic-papers">Tools for Polishing Academic Papers</h2>
+<p>Polishing your academic paper is essential to ensure it is clear, well-structured, and free of errors. Here are some AI tools that can help:</p>
+<ol type="1">
+<li><strong>Grammarly</strong>
+<ul>
+<li>Advanced grammar, punctuation, and style suggestions.</li>
+<li>Improvements for clarity and tone adjustments.</li>
+<li><a href="https://www.grammarly.com/">Grammarly</a></li>
+</ul></li>
+<li><strong>ProWritingAid</strong>
+<ul>
+<li>Comprehensive writing assistant with in-depth reports on style, grammar, and readability.</li>
+<li><a href="https://prowritingaid.com/">ProWritingAid</a></li>
+</ul></li>
+<li><strong>Hemingway Editor</strong>
+<ul>
+<li>Highlights complex sentences, passive voice, and other elements to make your writing clearer.</li>
+<li><a href="http://www.hemingwayapp.com/">Hemingway Editor</a></li>
+</ul></li>
+<li><strong>Ginger Software</strong>
+<ul>
+<li>Grammar and spell checking, sentence rephrasing, and translation features.</li>
+<li><a href="https://www.gingersoftware.com/">Ginger Software</a></li>
+</ul></li>
+<li><strong>Ref-N-Write</strong>
+<ul>
+<li>Offers phrase templates, a plagiarism checker, and a thesaurus to improve writing style and consistency.</li>
+<li><a href="https://www.ref-n-write.com/">Ref-N-Write</a></li>
+</ul></li>
+<li><strong>LanguageTool</strong>
+<ul>
+<li>Open-source proofreading tool for grammar, style, and spelling errors in multiple languages.</li>
+<li><a href="https://languagetool.org/">LanguageTool</a></li>
+</ul></li>
+<li><strong>Writefull</strong>
+<ul>
+<li>Provides feedback on language, grammar, and style, tailored for academic writing.</li>
+<li><a href="https://writefull.com/">Writefull</a></li>
+</ul></li>
+<li><strong>Slick Write</strong>
+<ul>
+<li>Checks for grammar errors, stylistic mistakes, and other writing features.</li>
+<li><a href="https://www.slickwrite.com/">Slick Write</a></li>
+</ul></li>
+<li><strong>PaperRater</strong>
+<ul>
+<li>Online tool providing grammar, spelling, and style checks, along with plagiarism detection.</li>
+<li><a href="https://www.paperrater.com/">PaperRater</a></li>
+</ul></li>
+<li><strong>Turnitin</strong>
+<ul>
+<li>Known for plagiarism detection, also offers grammar and writing feedback through WriteCheck.</li>
+<li><a href="https://www.turnitin.com/">Turnitin</a></li>
+</ul></li>
+</ol>
+</section>
+<section id="tools-for-conducting-literature-reviews" class="level2">
+<h2 class="anchored" data-anchor-id="tools-for-conducting-literature-reviews">Tools for Conducting Literature Reviews</h2>
+<p>Literature reviews are a critical part of academic writing, helping to frame your research within the context of existing knowledge. Here are some AI tools that can aid in this process:</p>
+<ol type="1">
+<li><strong>Litmaps</strong>
+<ul>
+<li>Discover and track academic papers, visualize citation networks.</li>
+<li><a href="https://www.litmaps.com/">Litmaps</a></li>
+</ul></li>
+<li><strong>ResearchRabbit</strong>
+<ul>
+<li>AI-powered tool for discovering and organizing research papers with personalized recommendations.</li>
+<li><a href="https://www.researchrabbit.ai/">ResearchRabbit</a></li>
+</ul></li>
+<li><strong>Connected Papers</strong>
+<ul>
+<li>Visual tool creating graphs of related papers to help explore relevant literature.</li>
+<li><a href="https://www.connectedpapers.com/">Connected Papers</a></li>
+</ul></li>
+<li><strong>Iris.ai</strong>
+<ul>
+<li>AI tool for finding relevant research papers and organizing your literature review.</li>
+<li><a href="https://the.iris.ai/">Iris.ai</a></li>
+</ul></li>
+<li><strong>Meta (formerly Meta.org)</strong>
+<ul>
+<li>Research discovery tool using AI to recommend relevant papers and track research trends.</li>
+<li><a href="https://www.meta.org/">Meta</a></li>
+</ul></li>
+<li><strong>Scholarcy</strong>
+<ul>
+<li>Summarizes research papers, highlighting key points, and creating structured summaries.</li>
+<li><a href="https://www.scholarcy.com/">Scholarcy</a></li>
+</ul></li>
+<li><strong>QuillBot Summarizer</strong>
+<ul>
+<li>Summarizes long research papers to help identify key points.</li>
+<li><a href="https://quillbot.com/summarize">QuillBot Summarizer</a></li>
+</ul></li>
+<li><strong>Scite</strong>
+<ul>
+<li>Provides citation context and insights into how a paper has been cited by others.</li>
+<li><a href="https://scite.ai/">Scite</a></li>
+</ul></li>
+<li><strong>Mendeley</strong>
+<ul>
+<li>Reference manager with literature search capabilities and recommendations.</li>
+<li><a href="https://www.mendeley.com/">Mendeley</a></li>
+</ul></li>
+<li><strong>Zotero</strong>
+<ul>
+<li>Reference management tool with literature search capabilities.</li>
+<li><a href="https://www.zotero.org/">Zotero</a></li>
+</ul></li>
+</ol>
+<p>These tools can significantly streamline your academic writing process, helping you to produce high-quality papers and thorough literature reviews. Embrace the power of AI to enhance your research and writing!</p>
+</section>
+<section id="conclusion" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
+<p>With the plethora of AI tools available, academic writing and literature reviews can be more efficient and effective. By leveraging these technologies, scholars can focus more on their research and less on the mechanics of writing. Try out these tools and see how they can transform your academic work.</p>
+<p>Happy writing!</p>
+<p><em>This blog post was generated by ChatGPT.</em></p>
 
 
+</section>
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title" data-direction="asc">
-          Title
-        </option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-         <option value="listing-author" data-direction="asc">
-          Author
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="tool,AI" data-listing-date-sort="1722096000000" data-listing-file-modified-sort="1722177368627" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="736">
-<div class="thumbnail">
-<p><a href="./posts/CopyOfusfeulinks.html" class="no-external"></a></p><a href="./posts/CopyOfusfeulinks.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/CopyOfusfeulinks.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/CopyOfusfeulinks.html" class="no-external">Enhancing Academic Writing with AI Tools</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/CopyOfusfeulinks.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('tool'); return false;">
-tool
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('AI'); return false;">
-AI
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/CopyOfusfeulinks.html" class="no-external">Academic writing can be a demanding task, requiring precision, clarity, and extensive research. Fortunately, a range of AI tools are available to assist scholars in various…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/CopyOfusfeulinks.html" class="no-external">
-<div class="listing-date">
-Jul 28, 2024
-</div>
-<div class="listing-author">
-ChatGPT
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="resources" data-listing-date-sort="1722009600000" data-listing-file-modified-sort="1721994851588" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="20">
-<div class="thumbnail">
-<p><a href="./posts/familyerrorrate.html" class="no-external"></a></p><a href="./posts/familyerrorrate.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/familyerrorrate.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/familyerrorrate.html" class="no-external">What’s a family in family-wise error control?[resources]</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/familyerrorrate.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('resources'); return false;">
-resources
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/familyerrorrate.html" class="no-external">I am reading this post by Daniel Lakens.</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/familyerrorrate.html" class="no-external">
-<div class="listing-date">
-Jul 27, 2024
-</div>
-<div class="listing-author">
-Yuhang Xu
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="tool" data-listing-date-sort="1720281600000" data-listing-file-modified-sort="1720666522262" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="31">
-<div class="thumbnail">
-<p><a href="./posts/usfeulinks.html" class="no-external"></a></p><a href="./posts/usfeulinks.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/usfeulinks.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/usfeulinks.html" class="no-external">Tests</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/usfeulinks.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('tool'); return false;">
-tool
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/usfeulinks.html" class="no-external">I will post useful links here:</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/usfeulinks.html" class="no-external">
-<div class="listing-date">
-Jul 7, 2024
-</div>
-<div class="listing-author">
-Yuhang Xu
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="news" data-listing-date-sort="1719936000000" data-listing-file-modified-sort="1720317513207" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="32">
-<div class="thumbnail">
-<p><a href="./posts/welcome/index.html" class="no-external"></a></p><a href="./posts/welcome/index.html" class="no-external">
-<p class="card-img-top"><img src="posts/welcome/thumbnail.jpg"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./posts/welcome/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/welcome/index.html" class="no-external">Welcome To My Blog</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/welcome/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
-news
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/welcome/index.html" class="no-external">This is the first post in a Quarto blog. Welcome!</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/welcome/index.html" class="no-external">
-<div class="listing-date">
-Jul 3, 2024
-</div>
-<div class="listing-author">
-Yuhang Xu
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -936,6 +850,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
+<script src="https://giscus.app/client.js" data-repo="yuhangxyh/yuhangxyh.github.io" data-repo-id="R_kgDOMTAIYg" data-category="General" data-category-id="DIC_kwDOMTAIYs4CgsQ4" data-mapping="title" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="dark" data-lang="en" crossorigin="anonymous" async="">
+</script>
+<input type="hidden" id="giscus-base-theme" value="dark">
+<input type="hidden" id="giscus-alt-theme" value="light">
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
