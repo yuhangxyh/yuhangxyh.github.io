@@ -2,7 +2,7 @@
 title: "Yuhang Xu"
 description: "Psycholinguistics & Data Science"
 about:
-  image: files/profile.jpg
+  image: files/profilexyh.png
   template: solana
   links:
     - text: LinkedIn
