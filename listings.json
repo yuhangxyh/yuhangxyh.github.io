@@ -2,11 +2,10 @@
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/ChatGptChineseLanguage.html",
       "/posts/chatgptAIWritingTool.html",
       "/posts/familyerrorrate.html",
-      "/posts/usfeulinks.html",
-      "/posts/welcome/index.html"
+      "/posts/ChatGptChineseLanguage.html",
+      "/posts/usfeulinks.html"
     ]
   }
 ]
