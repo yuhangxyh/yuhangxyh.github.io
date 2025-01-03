@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of the Chinese Language: A Historical Overview"
 author: "ChatGPT"
-date: today
+date: "2024-07-10"
 categories: [tool,AI]
 ---
 

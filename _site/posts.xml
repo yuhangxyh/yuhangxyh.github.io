@@ -10,105 +10,7 @@
 <atom:link href="https://yuhangxyh.github.io/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Thu, 02 Jan 2025 16:00:00 GMT</lastBuildDate>
-<item>
-  <title>The Evolution of the Chinese Language: A Historical Overview</title>
-  <dc:creator>ChatGPT </dc:creator>
-  <link>https://yuhangxyh.github.io/posts/ChatGptChineseLanguage.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="the-evolution-of-the-chinese-language-a-historical-overview" class="level1">
-<h1>The Evolution of the Chinese Language: A Historical Overview</h1>
-<p>The Chinese language, with its rich history and complex evolution, stands as one of the world’s oldest languages still in use today. This journey from ancient scripts to modern usage provides fascinating insights into the cultural and historical development of China. This blog explores the significant milestones in the history of the Chinese language.</p>
-<section id="oracle-bone-script-the-dawn-of-chinese-writing" class="level2">
-<h2 class="anchored" data-anchor-id="oracle-bone-script-the-dawn-of-chinese-writing">Oracle Bone Script: The Dawn of Chinese Writing</h2>
-<p>The earliest form of Chinese writing is the Oracle Bone Script, dating back to the Shang Dynasty (c.&nbsp;1600-1046 BCE). These inscriptions were carved onto animal bones and tortoise shells used for divination. The script includes characters that are direct ancestors of modern Chinese characters.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://www.comuseum.com/calligraphy/scripts/oracle-bone-script/.png" class="img-fluid figure-img"></p>
-<figcaption>Oracle Bone Script Example</figcaption>
-</figure>
-</div>
-<p>Oracle bone inscriptions provide valuable insights into the language, culture, and governance of early Chinese civilization. They reveal how ancient Chinese people communicated their questions to the gods, often related to agriculture, warfare, and royal matters.</p>
-</section>
-<section id="bronze-inscriptions-evolution-and-standardization" class="level2">
-<h2 class="anchored" data-anchor-id="bronze-inscriptions-evolution-and-standardization">Bronze Inscriptions: Evolution and Standardization</h2>
-<p>During the subsequent Zhou Dynasty (c.&nbsp;1046-256 BCE), Chinese writing evolved into the Bronze Script. Characters were inscribed on bronze vessels used for ceremonial purposes. This era marked a transition towards more standardized forms of characters, setting the stage for future developments in Chinese script.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://commons.wikimedia.org/wiki/File:Example_of_bronze_inscriptions_in_China.jpg" class="img-fluid figure-img"></p>
-<figcaption>Bronze Inscriptions</figcaption>
-</figure>
-</div>
-<p>The standardization of the script during this period was crucial for maintaining records and codifying laws, reflecting the administrative advancements of the Zhou Dynasty.</p>
-</section>
-<section id="seal-script-and-the-qin-dynasty" class="level2">
-<h2 class="anchored" data-anchor-id="seal-script-and-the-qin-dynasty">Seal Script and the Qin Dynasty</h2>
-<p>The Qin Dynasty (221-206 BCE) saw the unification of China under Emperor Qin Shi Huang. One of his significant contributions was standardizing the script, known as Seal Script. This move was part of broader efforts to unify the diverse regions of China.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://www.comuseum.com/calligraphy/scripts/seal-script/.png" class="img-fluid figure-img"></p>
-<figcaption>Seal Script</figcaption>
-</figure>
-</div>
-<p>Seal Script, characterized by its intricate and symmetrical characters, was used primarily for official documents and seals. The unification of the script facilitated better communication across the empire and laid the foundation for subsequent script developments.</p>
-</section>
-<section id="clerical-script-a-simplified-evolution" class="level2">
-<h2 class="anchored" data-anchor-id="clerical-script-a-simplified-evolution">Clerical Script: A Simplified Evolution</h2>
-<p>The Han Dynasty (206 BCE-220 CE) introduced the Clerical Script, a more simplified and practical form of writing compared to the Seal Script. This script was easier to write and became the standard for official and bureaucratic documents.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://commons.wikimedia.org/wiki/File:Clerical_Script_Example.jpg" class="img-fluid figure-img"></p>
-<figcaption>Clerical Script</figcaption>
-</figure>
-</div>
-<p>The Clerical Script’s simplicity and efficiency made it widely adopted, further promoting literacy and documentation across the empire.</p>
-</section>
-<section id="regular-script-the-foundation-of-modern-chinese" class="level2">
-<h2 class="anchored" data-anchor-id="regular-script-the-foundation-of-modern-chinese">Regular Script: The Foundation of Modern Chinese</h2>
-<p>The Regular Script, developed during the late Han Dynasty and reaching maturity in the Tang Dynasty (618-907 CE), is the basis for modern Chinese writing. This script is characterized by its clarity and balance, making it highly legible.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://www.comuseum.com/calligraphy/scripts/regular-script/.png" class="img-fluid figure-img"></p>
-<figcaption>Regular Script</figcaption>
-</figure>
-</div>
-<p>The Regular Script remains the most widely used form of Chinese characters today, serving as the standard for printed text and formal writing.</p>
-</section>
-<section id="simplified-chinese-modern-adaptations" class="level2">
-<h2 class="anchored" data-anchor-id="simplified-chinese-modern-adaptations">Simplified Chinese: Modern Adaptations</h2>
-<p>In the 20th century, the Chinese government introduced Simplified Chinese characters to increase literacy rates. These characters, with fewer strokes and simpler forms, are used primarily in Mainland China and Singapore.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://commons.wikimedia.org/wiki/File:Simplified_vs_Traditional_Chinese.png" class="img-fluid figure-img"></p>
-<figcaption>Simplified vs.&nbsp;Traditional Characters</figcaption>
-</figure>
-</div>
-<p>While Simplified Chinese is more accessible to new learners, Traditional Chinese characters, used in Taiwan, Hong Kong, and Macau, preserve the historical and aesthetic richness of the language.</p>
-</section>
-<section id="the-chinese-language-today" class="level2">
-<h2 class="anchored" data-anchor-id="the-chinese-language-today">The Chinese Language Today</h2>
-<p>Today, the Chinese language continues to evolve, influenced by technology, globalization, and cultural exchanges. Digital communication has introduced new slang and expressions, while efforts to preserve regional dialects and minority languages highlight the linguistic diversity within China.</p>
-</section>
-<section id="conclusion" class="level2">
-<h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
-<p>The history of the Chinese language is a testament to its resilience and adaptability. From ancient inscriptions to digital communication, Chinese has continuously evolved to meet the needs of its speakers. Understanding this history not only enriches our appreciation of the language but also connects us to the rich cultural heritage of China.</p>
-<p>For more detailed information on each script and to see more examples, visit the following resources: - <a href="https://www.comuseum.com/calligraphy/scripts/oracle-bone-script/">Oracle Bone Script</a> - <a href="https://commons.wikimedia.org/wiki/File:Example_of_bronze_inscriptions_in_China.jpg">Bronze Inscriptions</a> - <a href="https://www.comuseum.com/calligraphy/scripts/seal-script/">Seal Script</a> - <a href="https://commons.wikimedia.org/wiki/File:Clerical_Script_Example.jpg">Clerical Script</a> - <a href="https://www.comuseum.com/calligraphy/scripts/regular-script/">Regular Script</a> - <a href="https://commons.wikimedia.org/wiki/File:Simplified_vs_Traditional_Chinese.png">Simplified vs.&nbsp;Traditional Characters</a></p>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>tool</category>
-  <category>AI</category>
-  <guid>https://yuhangxyh.github.io/posts/ChatGptChineseLanguage.html</guid>
-  <pubDate>Thu, 02 Jan 2025 16:00:00 GMT</pubDate>
-</item>
+<lastBuildDate>Sat, 27 Jul 2024 16:00:00 GMT</lastBuildDate>
 <item>
   <title>Enhancing Academic Writing with AI Tools</title>
   <dc:creator>ChatGPT </dc:creator>
@@ -275,7 +177,105 @@
   <pubDate>Fri, 26 Jul 2024 16:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Tests</title>
+  <title>The Evolution of the Chinese Language: A Historical Overview</title>
+  <dc:creator>ChatGPT </dc:creator>
+  <link>https://yuhangxyh.github.io/posts/ChatGptChineseLanguage.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="the-evolution-of-the-chinese-language-a-historical-overview" class="level1">
+<h1>The Evolution of the Chinese Language: A Historical Overview</h1>
+<p>The Chinese language, with its rich history and complex evolution, stands as one of the world’s oldest languages still in use today. This journey from ancient scripts to modern usage provides fascinating insights into the cultural and historical development of China. This blog explores the significant milestones in the history of the Chinese language.</p>
+<section id="oracle-bone-script-the-dawn-of-chinese-writing" class="level2">
+<h2 class="anchored" data-anchor-id="oracle-bone-script-the-dawn-of-chinese-writing">Oracle Bone Script: The Dawn of Chinese Writing</h2>
+<p>The earliest form of Chinese writing is the Oracle Bone Script, dating back to the Shang Dynasty (c.&nbsp;1600-1046 BCE). These inscriptions were carved onto animal bones and tortoise shells used for divination. The script includes characters that are direct ancestors of modern Chinese characters.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://www.comuseum.com/calligraphy/scripts/oracle-bone-script/.png" class="img-fluid figure-img"></p>
+<figcaption>Oracle Bone Script Example</figcaption>
+</figure>
+</div>
+<p>Oracle bone inscriptions provide valuable insights into the language, culture, and governance of early Chinese civilization. They reveal how ancient Chinese people communicated their questions to the gods, often related to agriculture, warfare, and royal matters.</p>
+</section>
+<section id="bronze-inscriptions-evolution-and-standardization" class="level2">
+<h2 class="anchored" data-anchor-id="bronze-inscriptions-evolution-and-standardization">Bronze Inscriptions: Evolution and Standardization</h2>
+<p>During the subsequent Zhou Dynasty (c.&nbsp;1046-256 BCE), Chinese writing evolved into the Bronze Script. Characters were inscribed on bronze vessels used for ceremonial purposes. This era marked a transition towards more standardized forms of characters, setting the stage for future developments in Chinese script.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://commons.wikimedia.org/wiki/File:Example_of_bronze_inscriptions_in_China.jpg" class="img-fluid figure-img"></p>
+<figcaption>Bronze Inscriptions</figcaption>
+</figure>
+</div>
+<p>The standardization of the script during this period was crucial for maintaining records and codifying laws, reflecting the administrative advancements of the Zhou Dynasty.</p>
+</section>
+<section id="seal-script-and-the-qin-dynasty" class="level2">
+<h2 class="anchored" data-anchor-id="seal-script-and-the-qin-dynasty">Seal Script and the Qin Dynasty</h2>
+<p>The Qin Dynasty (221-206 BCE) saw the unification of China under Emperor Qin Shi Huang. One of his significant contributions was standardizing the script, known as Seal Script. This move was part of broader efforts to unify the diverse regions of China.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://www.comuseum.com/calligraphy/scripts/seal-script/.png" class="img-fluid figure-img"></p>
+<figcaption>Seal Script</figcaption>
+</figure>
+</div>
+<p>Seal Script, characterized by its intricate and symmetrical characters, was used primarily for official documents and seals. The unification of the script facilitated better communication across the empire and laid the foundation for subsequent script developments.</p>
+</section>
+<section id="clerical-script-a-simplified-evolution" class="level2">
+<h2 class="anchored" data-anchor-id="clerical-script-a-simplified-evolution">Clerical Script: A Simplified Evolution</h2>
+<p>The Han Dynasty (206 BCE-220 CE) introduced the Clerical Script, a more simplified and practical form of writing compared to the Seal Script. This script was easier to write and became the standard for official and bureaucratic documents.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://commons.wikimedia.org/wiki/File:Clerical_Script_Example.jpg" class="img-fluid figure-img"></p>
+<figcaption>Clerical Script</figcaption>
+</figure>
+</div>
+<p>The Clerical Script’s simplicity and efficiency made it widely adopted, further promoting literacy and documentation across the empire.</p>
+</section>
+<section id="regular-script-the-foundation-of-modern-chinese" class="level2">
+<h2 class="anchored" data-anchor-id="regular-script-the-foundation-of-modern-chinese">Regular Script: The Foundation of Modern Chinese</h2>
+<p>The Regular Script, developed during the late Han Dynasty and reaching maturity in the Tang Dynasty (618-907 CE), is the basis for modern Chinese writing. This script is characterized by its clarity and balance, making it highly legible.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://www.comuseum.com/calligraphy/scripts/regular-script/.png" class="img-fluid figure-img"></p>
+<figcaption>Regular Script</figcaption>
+</figure>
+</div>
+<p>The Regular Script remains the most widely used form of Chinese characters today, serving as the standard for printed text and formal writing.</p>
+</section>
+<section id="simplified-chinese-modern-adaptations" class="level2">
+<h2 class="anchored" data-anchor-id="simplified-chinese-modern-adaptations">Simplified Chinese: Modern Adaptations</h2>
+<p>In the 20th century, the Chinese government introduced Simplified Chinese characters to increase literacy rates. These characters, with fewer strokes and simpler forms, are used primarily in Mainland China and Singapore.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://commons.wikimedia.org/wiki/File:Simplified_vs_Traditional_Chinese.png" class="img-fluid figure-img"></p>
+<figcaption>Simplified vs.&nbsp;Traditional Characters</figcaption>
+</figure>
+</div>
+<p>While Simplified Chinese is more accessible to new learners, Traditional Chinese characters, used in Taiwan, Hong Kong, and Macau, preserve the historical and aesthetic richness of the language.</p>
+</section>
+<section id="the-chinese-language-today" class="level2">
+<h2 class="anchored" data-anchor-id="the-chinese-language-today">The Chinese Language Today</h2>
+<p>Today, the Chinese language continues to evolve, influenced by technology, globalization, and cultural exchanges. Digital communication has introduced new slang and expressions, while efforts to preserve regional dialects and minority languages highlight the linguistic diversity within China.</p>
+</section>
+<section id="conclusion" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
+<p>The history of the Chinese language is a testament to its resilience and adaptability. From ancient inscriptions to digital communication, Chinese has continuously evolved to meet the needs of its speakers. Understanding this history not only enriches our appreciation of the language but also connects us to the rich cultural heritage of China.</p>
+<p>For more detailed information on each script and to see more examples, visit the following resources: - <a href="https://www.comuseum.com/calligraphy/scripts/oracle-bone-script/">Oracle Bone Script</a> - <a href="https://commons.wikimedia.org/wiki/File:Example_of_bronze_inscriptions_in_China.jpg">Bronze Inscriptions</a> - <a href="https://www.comuseum.com/calligraphy/scripts/seal-script/">Seal Script</a> - <a href="https://commons.wikimedia.org/wiki/File:Clerical_Script_Example.jpg">Clerical Script</a> - <a href="https://www.comuseum.com/calligraphy/scripts/regular-script/">Regular Script</a> - <a href="https://commons.wikimedia.org/wiki/File:Simplified_vs_Traditional_Chinese.png">Simplified vs.&nbsp;Traditional Characters</a></p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>tool</category>
+  <category>AI</category>
+  <guid>https://yuhangxyh.github.io/posts/ChatGptChineseLanguage.html</guid>
+  <pubDate>Tue, 09 Jul 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Test blog-useful links</title>
   <dc:creator>Yuhang Xu</dc:creator>
   <link>https://yuhangxyh.github.io/posts/usfeulinks.html</link>
   <description><![CDATA[ 
@@ -297,27 +297,6 @@
   <category>tool</category>
   <guid>https://yuhangxyh.github.io/posts/usfeulinks.html</guid>
   <pubDate>Sat, 06 Jul 2024 16:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Welcome To My Blog</title>
-  <dc:creator>Yuhang Xu</dc:creator>
-  <link>https://yuhangxyh.github.io/posts/welcome/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://yuhangxyh.github.io/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
-
-
-
- ]]></description>
-  <category>news</category>
-  <guid>https://yuhangxyh.github.io/posts/welcome/</guid>
-  <pubDate>Tue, 02 Jul 2024 16:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
