@@ -1,0 +1,10 @@
+---
+title: "One more thing"
+author: "Yuhang Xu"
+date: "`r Sys.Date()`"
+categories: [tool,AI]
+---
+
+# One more thing 
+
+Happy writing!
