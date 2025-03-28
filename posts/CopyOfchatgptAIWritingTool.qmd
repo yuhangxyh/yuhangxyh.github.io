@@ -5,6 +5,6 @@ date: "`r Sys.Date()`"
 categories: [tool,AI]
 ---
 
-# One more thing 
+# One more thing
 
 Happy writing!
