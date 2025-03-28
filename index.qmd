@@ -14,7 +14,7 @@ about:
       url: https://orcid.org/0000-0002-9863-6036
     - text: "{{< ai google-scholar >}} Google Scholar"
       icon: google-scholar
-      url: https://scholar.google.com/citations?user=X_2G-VsAAAAJ
+      url: https://scholar.google.com/citations?user=tOwvYasAAAAJ&hl=en&inst=10118598557142643180
     - icon: twitter
       text: Twitter
       url: https://twitter.com/yuhangx
