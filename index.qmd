@@ -5,9 +5,9 @@ about:
   image: files/profilexyh.png
   template: solana
   links:
-    - text: LinkedIn
-      icon: linkedin
-      url: "https://www.linkedin.com/in/yuhangxyh"
+   # - text: LinkedIn
+  #    icon: linkedin
+   #   url: "https://www.linkedin.com/in/yuhangxyh"
     - text: "{{< ai osf >}} OSF"
       url: https://osf.io/2hjc4
     - text: "{{< ai orcid >}} ORCID"
@@ -21,8 +21,8 @@ about:
  #   - text: GitHub
  #     icon: github
  #     url: "https://github.com/mikemahoney218"
- #   - text: Email
- #     url: "mailto:mike.mahoney.218+site@gmail.com"
+    - text: Email
+      url: "mailto:yuhang.xyh@gmail.com"
  #   - text: Blog
  #     url: "blog.html"
  #   - text: CV
@@ -41,15 +41,15 @@ My [CV](https://drive.google.com/file/d/1Md0F_yIpvaOmMfUM2_80HqrZRLhoOIGj/view?u
 
 \~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~NEWS\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~\*\~
 
-***I need to update my website...***
-
-***but anyway***
+***I need to update my website...but anyway...***
 
 ***you can find me: yuhang.xyh gmail***
 
 - ***2026***
 
   Teaching EAP courses at HKUSPACE
+
+  More to come......
 
 <!-- -->
 
